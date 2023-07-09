@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "31836303751",
+    "firebase_url": "https://taxiclone-608eb-default-rtdb.firebaseio.com",
+    "project_id": "taxiclone-608eb",
+    "storage_bucket": "taxiclone-608eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31836303751:android:f85de858ff725f71af6322",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31836303751-288dqbf86e6tgkkfdqj0cqq0u69mllrb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_7",
+            "certificate_hash": "1ea45315ca71f109e789ccf91f73fb3d26ce3c15"
+          }
+        },
+        {
+          "client_id": "31836303751-9opphvj3k1g53ap4jgjpqeaercb0tkmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGX6KbQskpwx_Ahc9aaPsM1sJQfWDxi7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31836303751-9opphvj3k1g53ap4jgjpqeaercb0tkmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
